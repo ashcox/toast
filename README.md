@@ -59,3 +59,11 @@ https://www.doublesidedstickytape.co.uk/github/toast/
 **Note**
 
 The remove 'action' property also accepts an id argument so you can remove a specific toast, otherwise it will check all toasts that are pending removal.
+
+
+## Browser compatibility
+
+I've tested with the following browsers:
+
+* IE9, IE11, Edge
+* Chrome (62.0.3202.75)
