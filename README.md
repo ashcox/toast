@@ -5,6 +5,9 @@ A simple jQuery plugin to provide a notification in the bottom-left or bottom-ri
 
 ## Example usage
 
+Demo:
+https://www.doublesidedstickytape.co.uk/github/toast/
+
 ```html
 <!DOCTYPE html>
 <html>
