@@ -9,5 +9,26 @@
     <h1>Toast!</h1>
     <script src="jquery-3.2.1.min.js"></script>
     <script src="jquery-toast.js"></script>
+    <script>
+    
+      // default
+      $.fn.toast({ delay: 0 });
+    
+      // notify
+      $.fn.toast({ id: 'notify', content: 'Notify', type: 'notify', delay: 5000})
+    
+      // warm
+      $.fn.toast({ id: 'warn', content: 'Warn', type: 'warn', delay: 6000})
+    
+      // error
+      $.fn.toast({ id: 'error', content: 'Error', type: 'error', delay: 7000})
+    
+      // success
+      $.fn.toast({ id: 'success', content: 'Success', type: 'success', delay: 8000})
+      
+      // log
+      $.fn.toast({ id: 'log', content: 'Log', type: 'log', delay: 9000});
+      
+    </script>
 </body>
 </html>
