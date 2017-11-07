@@ -21,7 +21,7 @@
             var tContent;
             
 
-            // Replace if already exists (rather than show a new toast) - reset the delay attribute, and flag exists as true
+            // Remove current toast if already exists, as it will be replaced
             if ($('div.t-element#'+settings.id).length > 0) {
                 $("div.t-element#"+settings.id).remove();
             }
