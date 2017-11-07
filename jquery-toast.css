@@ -31,22 +31,22 @@ div.t-element.bottom-left {
 }
 
 
-.t-element.error {
+div.t-element.error {
     background: #B71C1C !important;
 }
 
-.t-element.log {
+div.t-element.log {
     background: #212121 !important;
 }
 
-.t-element.warn {
+div.t-element.warn {
     background: #F4511E !important;
 }
 
-.t-element.notify {
+div.t-element.notify {
     background: #0288D1 !important;
 }
 
-.t-element.success {
+div.t-element.success {
     background: #33691E !important;
 }
