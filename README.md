@@ -50,12 +50,12 @@ https://www.doublesidedstickytape.co.uk/github/toast/
 
 | Option | Description | Default |
 | :- | :- | :-|
-| action | show, reorder, remove | show |
+| action | show, reorder, remove | "show" |
 | content| string or HTML | "Hi, I'm a Toast!" |
 | delay | How long you want the toast to appear before being removed in milliseconds | 5000 |
 | id | Adds an ID to the toast | "jquery-toast" |
 | position | bottom-left or bottom-right side of screen | "bottom-left" |
-| type | notify, warn, error, success, log | log |
+| type | notify, warn, error, success, log | "log" |
 
 **Note**
 
