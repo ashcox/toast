@@ -3,11 +3,15 @@
 A simple jQuery plugin to provide a notification in the bottom-left or bottom-right hand-side of the screen.
 
 
-## Example usage
+## Demo
 
 Demo:
 https://www.doublesidedstickytape.co.uk/github/toast/
 
+![alt text](https://www.doublesidedstickytape.co.uk/github/toast/toast.PNG "Toast examples")
+
+
+## Example usage
 ```html
 <!DOCTYPE html>
 <html>
