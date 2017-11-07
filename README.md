@@ -63,7 +63,8 @@ https://www.doublesidedstickytape.co.uk/github/toast/
 
 **Note**
 
-The remove 'action' property also accepts an id argument so you can remove a specific toast, otherwise it will check all toasts that are pending removal.
+* The remove 'action' property also accepts an id argument so you can remove a specific toast, otherwise it will check all toasts that are pending removal.
+* Specifying a different ID for each toast will bring create a new toast element. Using an existing toast ID will replace the currently active toast.
 
 
 ## Browser compatibility
