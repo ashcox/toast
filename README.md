@@ -1,6 +1,8 @@
-# Toast
+# Toast.js 
 
-A simple jQuery plugin to provide a notification in the bottom-left or bottom-right hand-side of the screen.
+A lightweight yet customizable jQuery notification plugin which helps you create and display temporary or sticky toast messages like Android.
+
+Featured on [jqueryscript.net](https://www.jqueryscript.net/) as one of the [top 35](https://www.jqueryscript.net/blog/Best-Toast-Notification-jQuery-Plugins.html) jQuery Toast plugins of 2017 :smile:
 
 
 ## Demo
