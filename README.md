@@ -71,8 +71,6 @@ https://www.doublesidedstickytape.co.uk/github/toast/
 
 ## Browser compatibility
 
-I've tested with the following browsers:
-
 * Chrome
 * IE9+
 * Firefox
