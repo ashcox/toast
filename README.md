@@ -73,5 +73,8 @@ https://www.doublesidedstickytape.co.uk/github/toast/
 
 I've tested with the following browsers:
 
-* IE9, IE11, Edge
-* Chrome (62.0.3202.75)
+* Chrome
+* IE9+
+* Firefox
+* Opera
+* Safari
